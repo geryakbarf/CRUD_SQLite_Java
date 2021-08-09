@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">UTS - Gery</string>
+    <string name="welcome_to_online_campus">Welcome to Online Campus!</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="data_mahasiswa">Data Mahasiswa</string>
+    <string name="data_mahasiswa_masih_kosong">Data mahasiswa masih kosong</string>
+    <string name="silahkan_tekan_tombol_tambah_pada_toolbar">Silahkan tekan tombol tambah pada toolbar</string>
+    <string name="untuk_menambahkan_data_mahasiswa">untuk menambahkan data mahasiswa</string>
+    <string name="tambah_data">Tambah Data</string>
+    <string name="menambahkan_data_mahasiswa">Menambahkan data mahasiswa</string>
+    <string name="nim">Nomor Induk Mahasiswa</string>
+    <string name="nama">Nama Lengkap</string>
+    <string name="kelas">Kelas</string>
+    <string name="program_studi">Program Studi</string>
+    <string name="simpan_data">Simpan Data</string>
+    <string name="nama_1">Nama</string>
+    <string name="gery_akbar_fauzi">Gery Akbar Fauzi</string>
+    <string name="nim_1">Nim</string>
+    <string name="_10117049">10117049</string>
+    <string name="if_2">IF-2</string>
+    <string name="prodi">Prodi</string>
+    <string name="teknik_informatika">Teknik Informatika</string>
+    <string name="ubah_data">Ubah Data</string>
+    <string name="hapus_data">Hapus Data</string>
+    <string name="apakah_anda_yakin">Apakah anda yakin ?</string>
+    <string name="ingin_menghapus_data_mahasiswa">Ingin menghapus data mahasiswa</string>
+    <string name="dengan_nim">dengan nim</string>
+    <string name="_10117049__">10117049 ?</string>
+    <string name="batal">Batal</string>
+</resources>
